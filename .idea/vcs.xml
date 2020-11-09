@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Flume/flume_components/flumeTwitterSource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hadoop_RealTime_Twitter_Analysis" vcs="Git" />
   </component>
 </project>
