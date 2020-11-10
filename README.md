@@ -2,11 +2,11 @@
 
 A realtime Sentiment Analyzer over a Twitter Stream using big data technologies of the Hadoop ecosystem with Spark Streaming, Flume, Kafka, and Flask. 
 
-![Demo Page](./pictures/demo.png)
+![Demo Page](./pic/demo.png)
 
 ## Pipeline:
 
-![image-20201110132218997](/Users/haileyliu/Library/Application Support/typora-user-images/image-20201110132218997.png)
+![pipeline](./pic/pipeline.png)
 
 ## Data Ingesting with Flume:  
 
